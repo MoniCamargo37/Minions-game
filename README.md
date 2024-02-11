@@ -1,6 +1,5 @@
 # Minions Adventure
 
-<!-- When you finish, add a nice screenshot of your game -->
 <img src="./assets/img/readme_image1.png">
 
 ## Description
@@ -27,11 +26,6 @@ Minimum user stories:
 - Inclusion of different stages with progressively increasing difficulty.
 - Addition of power-ups to aid the player.
 - Implementation of an online ranking system to compete with other players.
-
-<!-- ## File structure
-
-- <code>game.js</code>: contains all the elements for the game to work. Methods: start(), \_update()
-- <code>scripts.js</code>: contains all the DOM manipulation code to start the game -->
 
 ## File Structure
 
