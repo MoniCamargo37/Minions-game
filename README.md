@@ -9,7 +9,7 @@ In a distant land, filled with challenges and surprises, the Minions embark on a
 
 Get ready for a thrilling journey, where you'll face unexpected challenges while aiming to achieve ever-greater distances. Dodge obstacles, collect bonuses, and prove that you're the best guide for the adorable Minions!
 
-<img src="./assets/img/mix-image.png.png">
+<img src="./assets/img/mix-image.png">
 
 ## User stories MVP
 
