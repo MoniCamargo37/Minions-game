@@ -1,9 +1,9 @@
 # Minions Adventure
 
 <!-- When you finish, add a nice screenshot of your game -->
-[<img src="./assets/img/readme_image1.png">]()
-[<img src="./assets/img/readme_image2.png">]()
-[<img src="./assets/img/readme_image3.png">]()
+<img src="./assets/img/readme_image1.png">
+<img src="./assets/img/readme_image2.png">
+<img src="./assets/img/readme_image3.png">
 
 ## Description
 
