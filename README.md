@@ -2,14 +2,14 @@
 
 <!-- When you finish, add a nice screenshot of your game -->
 <img src="./assets/img/readme_image1.png">
-<img src="./assets/img/readme_image2.png">
-<img src="./assets/img/readme_image3.png">
 
 ## Description
 
 In a distant land, filled with challenges and surprises, the Minions embark on an exciting adventure. In the game Minions Adventure, you will guide a Minion through an endless world, filled with obstacles and bonuses.
 
 Get ready for a thrilling journey, where you'll face unexpected challenges while aiming to achieve ever-greater distances. Dodge obstacles, collect bonuses, and prove that you're the best guide for the adorable Minions!
+
+<img src="./assets/img/mix-image.png.png">
 
 ## User stories MVP
 
